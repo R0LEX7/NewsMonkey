@@ -1,0 +1,88 @@
+{
+  "status": "ok",
+  "totalResults": 7,
+  "articles": [
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Sophia Ankel",
+      "title": "How Ivanka Trump was shunned after joining Trump administration",
+      "description": "Ivanka Trump said last week that she is no longer interested in working in politics and would like to focus on her family.",
+      "url": "http://www.businessinsider.com/how-ivanka-trump-was-shunned-after-joining-trump-administration-2022-11",
+      "urlToImage": "https://i.insider.com/637cd7fc2c8b9a0018cc103a?width=1200&format=jpeg",
+      "publishedAt": "2022-11-23T13:05:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "Sophia Ankel",
+      "title": "How Ivanka Trump was shunned after joining Trump administration",
+      "description": "Ivanka Trump said last week that she is no longer interested in working in politics and would like to focus on her family.",
+      "url": "http://uk.businessinsider.com/how-ivanka-trump-was-shunned-after-joining-trump-administration-2022-11",
+      "urlToImage": "https://i.insider.com/637cd7fc2c8b9a0018cc103a?width=1200&format=jpeg",
+      "publishedAt": "2022-11-23T13:05:11Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Special Section: The Unregulated Podcast",
+      "description": "The Unregulated Podcast is hosted by Washington Times columnist, Mike McKenna and Tom Pyle, President of the American Energy Alliance. Each week they dig into the latest in energy, politics, and anything else that is on their minds.",
+      "url": "https://www.washingtontimes.com/specials/unregulated-podcast/",
+      "urlToImage": "https://media.washtimes.com/media/specials/thumbnails/UnregulatedThumbnail.jpg",
+      "publishedAt": "2022-11-23T10:37:40.2044454Z",
+      "content": "Listen here. For comments or feedback, email media@washingtontimes.com using the subject line \"The Unregulated Podcast.\"Recent Stories\r\nThe dean of Nebraska's delegation, Republican Rep. Adrian Smith… [+885 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Anthony Faiola, Gabriela Sá Pessoa",
+      "title": "Brazil’s toxic politics stain a soccer icon: The national team jersey",
+      "description": "A moment of joyful anticipation is being dampened by the aftermath of an ugly presidential election.",
+      "url": "https://www.washingtonpost.com/world/2022/11/23/brazil-world-cup-politics/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7Y4ZEKXTJKOIWO4VQGUGXG4CDY.jpg&w=1440",
+      "publishedAt": "2022-11-23T09:00:34Z",
+      "content": "Comment on this story\r\nOmar Monteiro Jr.s hillside bar in Rio de Janeiro, a ten-minute drive from Maracana Stadium the cathedral of global soccer is a haunt for Brazilian progressives. Youll find a f… [+9966 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Latest Quizzes",
+      "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+      "url": "https://www.washingtontimes.com/quiz/",
+      "urlToImage": null,
+      "publishedAt": "2022-08-30T16:37:43.8583104Z",
+      "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": null,
+      "title": "Politics Archives - The American Conservative",
+      "description": null,
+      "url": "https://www.theamericanconservative.com/category/politics/",
+      "urlToImage": null,
+      "publishedAt": "2022-07-07T21:37:27.3936289Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-jerusalem-post", "name": "The Jerusalem Post" },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
