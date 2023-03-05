@@ -1,70 +1,86 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# NewsMonkey 
 
-## Available Scripts
+This is a news website built using React. It displays the latest news articles from various sources and categories.
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Screenshots
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+- NewsMonkey - Top Headlines
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+![news1](https://user-images.githubusercontent.com/115485479/222960525-5071dbb3-1ae6-4a03-8ab5-f057806ff863.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+- NewsMonkey - Sports Headlines
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![news2](https://user-images.githubusercontent.com/115485479/222960540-ff75e9c7-e655-4c67-a882-4aed96844f87.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Infinite Scroll And other features 
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![news3](https://user-images.githubusercontent.com/115485479/222960596-9dcc8a4a-01c6-4d32-ab61-139922fc66d8.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Features
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+The website has the following features:
 
-### Code Splitting
+- Browse articles by categories such as Business, Sports, Technology, etc.
+- View the latest news articles from various sources such as CNN, BBC, Reuters, etc.
+- View the details of each news article such as its title, description, author, source, and published date.
+- View the news article in its original source by clicking on the link provided.
+- Infinitely Scroll News which is please to user then pagination like today`s google news.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Technologies Used
 
-### Analyzing the Bundle Size
+The website was built using the following technologies:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- React JS
+- React Router
+- Tailwind CSS
+- Vite
 
-### Making a Progressive Web App
+## Run Locally
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Clone the project
 
-### Advanced Configuration
+```bash
+  git clone https://github.com/R0LEX7/NewsMonkey.git
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Go to the project directory
 
-### Deployment
+```bash
+  cd NewsMonkey
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Install dependencies
 
-### `npm run build` fails to minify
+```bash
+  npm install react-router-dom vite tailwindcss autoprefixer postcss-cli react-infinite-scroll-component
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Contributing
+
+Contributions are always welcome!
+If you'd like to contribute to the project, you can follow these steps:
+
+- Fork the repository
+- Create a new branch
+- Make your changes
+- Push your changes to your fork
+- Create a pull request
+
+
