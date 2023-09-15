@@ -28,8 +28,9 @@ This is a news website built using React. It displays the latest news articles f
 ![Screenshot 2023-09-15 180328](https://github.com/R0LEX7/NewsMonkey/assets/115485479/3b8ee1ba-03b3-4162-9e92-6ae6a4a24340)
 
 - Mobile responsive
-![Screenshot 2023-09-15 180511](https://github.com/R0LEX7/NewsMonkey/assets/115485479/71c5a2ee-8a4b-41ef-820e-89ca210ddcd4)
 
+  
+![Screenshot 2023-09-15 180511](https://github.com/R0LEX7/NewsMonkey/assets/115485479/71c5a2ee-8a4b-41ef-820e-89ca210ddcd4)
 ![Screenshot 2023-09-15 180422](https://github.com/R0LEX7/NewsMonkey/assets/115485479/33740677-02c5-4bfd-9de3-27dbd6c38b94)
 
 ## Features
