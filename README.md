@@ -11,20 +11,26 @@ This is a news website built using React. It displays the latest news articles f
 - NewsMonkey - Top Headlines
 
 
-![news1](https://user-images.githubusercontent.com/115485479/222960525-5071dbb3-1ae6-4a03-8ab5-f057806ff863.png)
+
+![Screenshot 2023-09-15 180121](https://github.com/R0LEX7/NewsMonkey/assets/115485479/6edd5983-7ff6-46d6-b0d1-db57ab7b0417)
 
 
 
 
 - NewsMonkey - Sports Headlines
 
-![news2](https://user-images.githubusercontent.com/115485479/222960540-ff75e9c7-e655-4c67-a882-4aed96844f87.png)
+![Screenshot 2023-09-15 180227](https://github.com/R0LEX7/NewsMonkey/assets/115485479/b241f52e-2d93-45ce-9c6d-e7230f97e091)
+
 
 
 - Infinite Scroll And other features 
 
-![news3](https://user-images.githubusercontent.com/115485479/222960596-9dcc8a4a-01c6-4d32-ab61-139922fc66d8.png)
+![Screenshot 2023-09-15 180328](https://github.com/R0LEX7/NewsMonkey/assets/115485479/3b8ee1ba-03b3-4162-9e92-6ae6a4a24340)
 
+- Mobile responsive
+![Screenshot 2023-09-15 180511](https://github.com/R0LEX7/NewsMonkey/assets/115485479/71c5a2ee-8a4b-41ef-820e-89ca210ddcd4)
+
+![Screenshot 2023-09-15 180422](https://github.com/R0LEX7/NewsMonkey/assets/115485479/33740677-02c5-4bfd-9de3-27dbd6c38b94)
 
 ## Features
 
