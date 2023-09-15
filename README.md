@@ -2,6 +2,7 @@
 # NewsMonkey 
 
 This is a news website built using React. It displays the latest news articles from various sources and categories.
+![mobile2](https://github.com/R0LEX7/NewsMonkey/assets/115485479/20e32a0d-e1d4-42e5-a206-38c0ace1e5d5)
 
 
 
